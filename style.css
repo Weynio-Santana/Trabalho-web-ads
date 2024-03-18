@@ -47,3 +47,9 @@ footer {display: flex;
                .formação{text-align: left; padding-left: 30px; }
                .lista{ color: cornflowerblue; padding-right: 70%; list-style-type: none;}
                .udemy{color:cornflowerblue; padding-left: 30px;}
+
+               .portfolio p {color: aqua; padding-left: 20%; }
+               .portfolio h2 {color: beige; padding-right: 100px;}
+               .portfolio h3 {color: darkgreen; padding-right: 100px;}
+               .portfolio h4 {color: darkgreen; padding-right: 100px;}
+               .repositorio{color: red;}
