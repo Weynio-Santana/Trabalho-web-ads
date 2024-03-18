@@ -1,0 +1,49 @@
+body {background-color: black; font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;}
+ul{
+    display: flex;
+    justify-content: space-around;
+}
+.navegação{ color:green ; list-style-type: none; }
+a{text-decoration: none; color: green; }
+.navegação a:hover{ color: white;}
+
+
+
+header{ padding: 20px 100px 0 0 ; }
+
+
+main{ text-align: center;
+       padding: 50px;
+    color: green;
+     font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;}
+  .sobre { text-align: left; 
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;    
+    color: red;}
+
+
+p {color: white;    
+text-align: left; max-width: 50%; }
+
+.container{ position: absolute;top: 50%; right: 10%; }
+.container img{ width: 380px; height: auto;}
+
+footer img{ width: 60px; height: auto;}
+footer {display: flex; 
+        justify-content: center   ;}
+
+
+        section{ padding-right: 50%;
+                 margin-top: 5%;}
+
+       .contato{ color:silver;}
+       .contato h2{ padding-right: 20%;}
+       
+       .contatoimg img{ width: 400px; height: auto;  position: absolute; right: 10%; top: 40%;}
+
+       button{ border-radius: 10px; width: 100px; height: 30px;
+               background-color: slategray;}
+
+
+               .formação{text-align: left; padding-left: 30px; }
+               .lista{ color: cornflowerblue; padding-right: 70%; list-style-type: none;}
+               .udemy{color:cornflowerblue; padding-left: 30px;}
